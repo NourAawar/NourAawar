@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00ADB5&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+AI+%2F+ML;Building+Real-World+AI+Systems;Full-Stack+%2B+Machine+Learning;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF4D8D&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+AI+%2F+ML;Building+Real-World+AI+Systems;Full-Stack+%2B+Machine+Learning;Always+Learning+%26+Building" />
 </p>
 
 # Hi, I'm Nour 👋
