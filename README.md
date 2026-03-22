@@ -5,6 +5,7 @@
 # Hi, I'm Nour 👋
 
 Computer Science & Engineering student @ AUB
+
 Building AI systems, scalable software, and real-world applications
 
 --- 
