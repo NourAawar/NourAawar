@@ -18,40 +18,53 @@ Building AI systems, scalable software, and real-world applications
 
 --- 
 
-## Some Projects 
+## Some Recent Projects 
 
-### DES Encryption Visualizer
-- Full implementation of DES algorithm with step-by-step visualization  
-- Avalanche effect analysis using bit-level heatmaps  
-- Built with Python + PyQt5
+### Cybersecurity Incident Response AI System
+- Multi-agent AI system for real-time incident analysis and response
+- RAG pipeline over MITRE ATT&CK and NIST playbooks
+- Integrated external APIs (AbuseIPDB, VirusTotal) for IOC analysis
+- Built with Python, FastAPI, LangGraph, and vector databases
 
-### Offline AI Blind Assistance Device
-- Real-time object detection, OCR, and speech interaction  
-- Fully offline using NVIDIA Jetson Orin Nano  
-- Optimized for embedded systems
+🔗 [View Repository](https://github.com/NourAawar/Cybersecurity-Agent-NourAawar)
 
-### Lebanese Sign Language Interpreter
-- Real-time gesture recognition using LSTM  
-- Custom dataset + webcam-based inference
+### Exchange Rate Platform (Full-Stack)
+- Full-stack platform with secure REST APIs and real-time frontend
+- Implemented JWT authentication, RBAC, and rate limiting
+- Features include analytics, time-series data, P2P marketplace, alerts, and notifications
+- Built with Flask, React, and MySQL
+
+### Piano AI System
+- Multi-agent AI system with supervisor-based routing
+- RAG pipeline for semantic music knowledge retrieval 
+- Integrated voice interaction (speech-to-text and text-to-speech)
+- Containerized with Docker and CI/CD using GitHub Actions
+
+🔗 [Final (Dockerized Version)](https://github.com/NourAawar/neoclassical-piano-agent)
+
+🔗 [Development History](https://github.com/NourAawar/neoclassical-piano-agent-evolution)
 
 --- 
 
 ## Tech Stack 
 
-**Languages:** 
-Python, C++, Java, JavaScript
-
-**Web & Backend:**
-Flask, REST APIs, JWT, SQLAlchemy  
-
-**Frontend:** 
-HTML, CSS, React 
+**Languages:**  
+Python, C++, Java, JavaScript  
 
 **AI / ML:**  
-Deep Learning, NLP, Computer Vision 
+Generative AI, LLM Applications, Retrieval-Augmented Generation (RAG), Multi-Agent Systems, Prompt Engineering, Embeddings, Deep Learning, NLP, AI Safety & Guardrails
 
-**Tools:**  
-Git, Docker, Postman, MySQL, SQLite 
+**Backend & APIs:**  
+Flask, FastAPI, REST APIs, JWT Authentication
+
+**Frontend:**  
+React, HTML, CSS
+
+**Databases & Storage:**  
+MySQL, SQLite, MongoDB, Redis, Vector Databases (ChromaDB, Qdrant)
+
+**Tools & Technologies:**  
+Docker, Git, GitHub, CI/CD (GitHub Actions), Postman 
 
 --- 
 
