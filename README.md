@@ -12,7 +12,7 @@ Building AI systems, scalable software, and real-world applications
 
 ## What I'm Currently Working On 
 
-- Production AI System (Multi-Agent + RAG + Microservices)
+- Personal portfolio website 
 - AI/ML projects focused on real-world applications
 - Multi-Platform System — designed and implemented backend & frontend, now expanding to desktop and mobile applications
 
