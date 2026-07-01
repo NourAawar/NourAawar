@@ -14,7 +14,6 @@ Building AI systems, scalable software, and real-world applications
 
 - Personal portfolio website 
 - AI/ML projects focused on real-world applications
-- Multi-Platform System — designed and implemented backend & frontend, now expanding to desktop and mobile applications
 
 --- 
 
