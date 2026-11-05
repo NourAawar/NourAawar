@@ -4,6 +4,8 @@
 
 # Hi, I'm Nour 👋
 
+Generative AI Intern @ BMW AG 
+
 Computer Science & Engineering student @ AUB
 
 Building AI systems, scalable software, and real-world applications
@@ -12,7 +14,6 @@ Building AI systems, scalable software, and real-world applications
 
 ## What I'm Currently Working On 
 
-- Personal portfolio website 
 - AI/ML projects focused on real-world applications
 
 --- 
